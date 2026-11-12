@@ -1,5 +1,5 @@
-<h1 align="center">WELCOME TO MY PROFILE</h1>
+<h1 align="center">WELL HELLO THERE</h1>
 
 <div align="center">
-  <img src="./Cat-eating-chips-ascii.gif" width="400">
+  <img src="./Cat-eating-chips-ascii.gif" width="500">
 </div>
